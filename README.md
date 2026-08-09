@@ -1,4 +1,4 @@
-# Hi there, I'm Alibek Khakim
+# Hi there, I'm Alibek
 • Graduated from Astana IT University — Full-Stack Developer (mobile & web)<br>
 • Game Developer & 3D Designer, working with Unity<br>
 • Pursuing Machine Learning at QAIRU University (2026–2029)<br>
