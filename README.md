@@ -1,7 +1,6 @@
 # Hi there, I'm Alibek
-• Graduated from Astana IT University — Full-Stack Developer (mobile & web)<br>
+• Graduated from College of Astana IT University - Full-Stack Developer (mobile & web)<br>
 • Game Developer & 3D Designer, working with Unity<br>
-• Pursuing Machine Learning at QAIRU University (2026–2029)<br>
 • Focused on AI-driven tools for education and personalized learning<br>
 • Open to collaborating on EdTech and AI projects
 
